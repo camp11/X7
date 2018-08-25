@@ -886,7 +886,7 @@ if($message['type']=='text') {
             'messages' => array(
                 array (
   'type' => 'template',
-  'altText' => 'MANAGEMENT ',
+  'altText' => 'STAFF AKSI',
   'template' => 
   array (
     'type' => 'image_carousel',
