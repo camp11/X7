@@ -894,32 +894,32 @@ if($message['type']=='text') {
     array (
       0 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1527199531/Admin/1527197179444.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203935171.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/S1B_SinchanEDS',
+          'uri' => 'https://www.smule.com/',
         ),
       ),
       1 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1527199528/Admin/1527197281467.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203936810.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'http://smule.com/EDS_AgNVO_SVC',
+          'uri' => 'http://smule.com/',
         ),
       ),
       2 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1527199533/Admin/1527197302452.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203932945.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'http://smule.com/EDS_mardianiayu',
+          'uri' => 'http://smule.com/',
         ),
       ),
     ),
