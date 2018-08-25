@@ -771,8 +771,8 @@ if($message['type']=='text') {
             'messages' => array(
                 array (
   'type' => 'imagemap',
-  'baseUrl' => '',
-  'altText' => 'WELCOME TO ',
+  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535204981/AKSI/1',
+  'altText' => 'WELCOME TO AKSI',
   'baseSize' => 
   array (
     'height' => 1040,
@@ -783,7 +783,7 @@ if($message['type']=='text') {
     0 => 
     array (
       'type' => 'message',
-      'text' => '',
+      'text' => 'Official',
       'area' => 
       array (
         'x' => 0,
@@ -795,7 +795,7 @@ if($message['type']=='text') {
     1 => 
     array (
       'type' => 'message',
-      'text' => 'Admin',
+      'text' => 'Staff',
       'area' => 
       array (
         'x' => 520,
@@ -843,15 +843,15 @@ if($message['type']=='text') {
 }
 //pesan bergambar
 if($message['type']=='text') {
-	    if ($command == '' || $command == ''|| $command == ''|| $command == '' ) {
+	    if ($command == 'Official' ) {
 
         $balas = array(
             'replyToken' => $replyToken,
             'messages' => array(
                 array (
   'type' => 'imagemap',
-  'baseUrl' => '',
-  'altText' => ' OFFICIAL',
+  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205404/AKSI/3',
+  'altText' => 'OFFICIAL STAFF',
   'baseSize' => 
   array (
     'height' => 1040,
@@ -879,7 +879,7 @@ if($message['type']=='text') {
 }
 //pesan bergambar
 if($message['type']=='text') {
-	    if ($command == 'Admin' || $command == 'admin' ) {
+	    if ($command == 'Staff' || $command == 'staff' ) {
         $balas = array(
             'replyToken' => $replyToken,
             'messages' => array(
@@ -893,7 +893,7 @@ if($message['type']=='text') {
     array (
       0 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1533449674/VOLS/Admin%20/1533449411218.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203935171.jpg',
         'action' => 
         array (
           'type' => 'uri',
@@ -903,7 +903,7 @@ if($message['type']=='text') {
       ),
       1 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1533449670/VOLS/Admin%20/1533449443327.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203936810.jpg',
         'action' => 
         array (
           'type' => 'uri',
@@ -913,48 +913,7 @@ if($message['type']=='text') {
       ),
       2 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1533449673/VOLS/Admin%20/1533449431095.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/',
-        ),
-      ),
-    ),
-  ),
-),
-                array (
-  'type' => 'template',
-  'altText' => 'MANAGEMENT VoLS',
-  'template' => 
-  array (
-    'type' => 'image_carousel',
-    'columns' => 
-    array (
-      0 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1533449669/VOLS/Admin%20/1533449459021.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/',
-        ),
-      ),
-      1 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1533449668/VOLS/Admin%20/1533449486470.jpg',
-        'action' => 
-        array (
-          'type' => 'uri',
-          'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/',
-        ),
-      ),
-      2 => 
-      array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1533449669/VOLS/Admin%20/1533449475173.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203932945.jpg',
         'action' => 
         array (
           'type' => 'uri',
