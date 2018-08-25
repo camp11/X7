@@ -237,7 +237,7 @@ if ($type == 'join' || $command == 'Help') {
 if ($type == 'join' || $command == 'dev') {
     $text .= " \n";
     $text .= " 􀀹⚡⚡⚡⚡⚡⚡⚡⚡􀀹\n";
-    $text .= "======[HALLO ]======";
+    $text .= "======[HALLO SOBAT AKSI]======";
     $text .= " \n";
     $text .= "Terima Kasih Atas Invite nya\n";
     $text .= "=======================\n";	
@@ -261,8 +261,8 @@ if ($type == 'text' || $command == 'Wc') {
     $text .= " \n";
     $text .= "       ⤵Selamat Datang di⤵\n";
     $text .= "=======================\n";	
-    $text .= "                ><\n";	
-    $text .= "            ";
+    $text .= "           A K S I\n";	
+    $text .= "     Akademi Smule Indonesia";
     $text .= " \n";
     $text .= "=======================\n";	
     $text .= "  Jangan Lupa Cek Note ya\n";
