@@ -772,7 +772,7 @@ if($message['type']=='text') {
             'messages' => array(
                 array (
   'type' => 'imagemap',
-  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535204981/AKSI/1',
+  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535211717/AKSI/4',
   'altText' => 'WELCOME TO AKSI',
   'baseSize' => 
   array (
@@ -939,7 +939,7 @@ if($message['type']=='text') {
                 array (
   'type' => 'imagemap',
   'baseUrl' => 'https://res.cloudinary.com/tes5566/image/upload/v1532321762/Stiker/2',
-  'altText' => 'Team VoLS mengirim sticker',
+  'altText' => 'Mimin AKSI mengirim sticker',
   'baseSize' => 
   array (
     'height' => 1040,
@@ -975,7 +975,7 @@ if($message['type']=='text') {
                 array (
   'type' => 'imagemap',
   'baseUrl' => 'https://res.cloudinary.com/tes5566/image/upload/v1532322034/Stiker/3',
-  'altText' => 'Team VoLS mengirim sticker',
+  'altText' => 'Mimin AKSI mengirim sticker',
   'baseSize' => 
   array (
     'height' => 1040,
@@ -1011,7 +1011,7 @@ if($message['type']=='text') {
                 array (
   'type' => 'imagemap',
   'baseUrl' => 'https://res.cloudinary.com/tes5566/image/upload/v1532323952/Stiker/4',
-  'altText' => 'Team VoLS mengirim sticker',
+  'altText' => 'Mimin AKSI mengirim sticker',
   'baseSize' => 
   array (
     'height' => 1040,
