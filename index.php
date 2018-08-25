@@ -210,8 +210,9 @@ function zodiak($keyword) {
 if ($type == 'join' || $command == 'Help') {
     $text .= "==[Main Keywords]==";
     $text .= "> \n";
-    $text .= "> Welcome\n"; 
-    $text .= "> Admin\n";
+    $text .= "> Welcome\n";
+    $text .= "> Official\n";
+    $text .= "> Staff\n";
     $text .= "> Key\n";
     $text .= "> Creator\n";
     $text .= "> /shalat [namakota]\n";
