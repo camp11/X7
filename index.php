@@ -886,7 +886,7 @@ if($message['type']=='text') {
             'messages' => array(
                 array (
   'type' => 'template',
-  'altText' => 'STAFF AKSI',
+  'altText' => 'ALL STAFF AKSI',
   'template' => 
   array (
     'type' => 'image_carousel',
@@ -894,22 +894,73 @@ if($message['type']=='text') {
     array (
       0 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203935171.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246456447.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'https://www.smule.com/',
+          'linkUri' => 'https://www.smule.com/AKSI_DIARRASAM',
         ),
       ),
       1 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203936810.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246454600.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'http://smule.com/',
+          'linkUri' => 'https://www.smule.com/AKSI_Ardiarsam2',
+        ),
+      ),
+      2 => 
+      array (
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246452625.jpg',
+        'action' => 
+        array (
+          'type' => 'uri',
+          'label' => 'SMULE',
+          'linkUri' => 'https://www.smule.com/Abie_AKSI',
+        ),
+      ),
+      3 => 
+      array (
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246450974.jpg',
+        'action' => 
+        array (
+          'type' => 'uri',
+          'label' => 'SMULE',
+          'linkUri' => 'https://www.smule.com/AKSI_HanyBSF',
+        ),
+      ),
+    ),
+  ),
+),
+                array (
+  'type' => 'template',
+  'altText' => 'ALL STAFF AKSI',
+  'template' => 
+  array (
+    'type' => 'image_carousel',
+    'columns' => 
+    array (
+      0 => 
+      array (
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246447371.jpg',
+        'action' => 
+        array (
+          'type' => 'uri',
+          'label' => 'SMULE',
+          'linkUri' => 'https://www.smule.com/GV_UsyThea_87',
+        ),
+      ),
+      1 => 
+      array (
+        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246449158.jpg',
+        'action' => 
+        array (
+          'type' => 'uri',
+          'label' => 'SMULE',
+          'linkUri' => 'https://www.smule.com/AKSI_NOVITAALIT',
         ),
       ),
       2 => 
@@ -919,12 +970,12 @@ if($message['type']=='text') {
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'uri' => 'http://smule.com/',
+          'linkUri' => 'https://www.smule.com/Abie_AKSI',
         ),
       ),
     ),
   ),
-)
+),
             )
         );
     }
