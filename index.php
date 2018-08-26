@@ -895,42 +895,42 @@ if($message['type']=='text') {
     array (
       0 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246456447.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1534335916/KBS/COVER/1534335598064.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/AKSI_DIARRASAM',
+          'uri' => 'https://www.smule.com/NEW_KBS_OFFICIAL',
         ),
       ),
       1 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246454600.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1534335916/KBS/COVER/1534335596516.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/AKSI_Ardiarsam2',
+          'uri' => 'https://www.smule.com/NEW_KBS_OFFICIAL',
         ),
       ),
       2 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246452625.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1534335916/KBS/COVER/1534335586077.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/Abie_AKSI',
+          'uri' => 'https://www.smule.com/nneKBS',
         ),
       ),
       3 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246450974.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1534335917/KBS/COVER/1534335589001.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/AKSI_HanyBSF',
+          'uri' => 'https://www.smule.com/IVK_DY4N4_KBS',
         ),
       ),
     ),
@@ -946,37 +946,37 @@ if($message['type']=='text') {
     array (
       0 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246447371.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1534335917/KBS/COVER/1534335587551.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/GV_UsyThea_87',
+          'uri' => 'https://www.smule.com/_CINTA7D_PSE_SWX',
         ),
       ),
       1 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535254108/AKSI/2/1535246449158.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1534335916/KBS/COVER/1534335583279.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/AKSI_NOVITAALIT',
+          'uri' => 'https://www.smule.com/VIF_nidhal',
         ),
       ),
       2 => 
       array (
-        'imageUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535205001/AKSI/2/1535203932945.jpg',
+        'imageUrl' => 'https://res.cloudinary.com/eds0101/image/upload/v1534335921/KBS/COVER/1534335595180.jpg',
         'action' => 
         array (
           'type' => 'uri',
           'label' => 'SMULE',
-          'linkUri' => 'https://www.smule.com/Abie_AKSI',
+          'uri' => 'https://www.smule.com/Want_KBS',
         ),
       ),
     ),
   ),
-)
+),
             )
         );
     }
