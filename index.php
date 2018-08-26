@@ -864,7 +864,7 @@ if($message['type']=='text') {
     0 => 
     array (
       'type' => 'uri',
-      'linkUri' => 'https://www.smule.com/',
+      'linkUri' => 'https://www.smule.com/AKSI_OFC',
       'area' => 
       array (
         'x' => 520,
