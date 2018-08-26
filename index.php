@@ -263,7 +263,7 @@ if ($type == 'text' || $command == 'Wc') {
     $text .= " \n";
     $text .= "       ⤵Selamat Datang di⤵\n";
     $text .= "=======================\n";	
-    $text .= "                A K S I\n";	
+    $text .= "                  A K S I\n";	
     $text .= " Akademi Smule Indonesia";
     $text .= " \n";
     $text .= "=======================\n";	
