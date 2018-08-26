@@ -212,6 +212,7 @@ if ($type == 'join' || $command == 'Help') {
     $text .= "> \n";
     $text .= "> Welcome\n";
     $text .= "> Official\n";
+    $text .= "> Aksi\n";
     $text .= "> Staff\n";
     $text .= "> Key\n";
     $text .= "> Creator\n";
@@ -1038,6 +1039,42 @@ if($message['type']=='text') {
     array (
       'type' => 'message',
       'text' => 'Haha',
+      'area' => 
+      array (
+        'x' => 520,
+        'y' => 0,
+        'width' => 520,
+        'height' => 1040,
+      ),
+    ),
+  ),
+)
+            )
+        );
+    }
+}
+//pesan bergambar
+if($message['type']=='text') {
+	    if ($command == 'Aksi' || $command == 'AKSI' || $command == 'aksi' ) {
+
+        $balas = array(
+            'replyToken' => $replyToken,
+            'messages' => array(
+                array (
+  'type' => 'imagemap',
+  'baseUrl' => 'https://res.cloudinary.com/dmvpko25b/image/upload/v1535255434/AKSI/5',
+  'altText' => 'OOFFICIAL LOGO AKSI',
+  'baseSize' => 
+  array (
+    'height' => 1040,
+    'width' => 1040,
+  ),
+  'actions' => 
+  array (
+    0 => 
+    array (
+      'type' => 'uri',
+      'linkUri' => 'https://www.smule.com/AKSI_OFC',
       'area' => 
       array (
         'x' => 520,
